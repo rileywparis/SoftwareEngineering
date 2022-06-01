@@ -1,1 +1,14 @@
-test
+1. https://github.com/tsharp42/E46ClusterDriver
+I find this repo very interesting because it aids the process of interfacing with the can bus of a BMW. This is something I have dabbled with in the past with my BMWs.
+
+2. https://github.com/frk1/hazedumper
+This is very fascinating as it provides all of the offsets/memory addresses for CS:GO used to create game hacks. I have used this before when I used to be interested in game hacking.
+
+3. https://github.com/appwrite/appwrite
+This repo seems like it could be useful for creating apps or web pages that require networking of some sort. This would be much easier to use than creating a server from scratch I am sure.
+
+4. https://github.com/Merubokkusu/discord-spam-bots
+I think this one seemed interesting, however, it seems like it would not be usable without getting banned. The thought of trying it on a backup account in a friend's server seems interesting though.
+
+5. https://github.com/github/gitignore
+Important when committing files to a repository to exclude certain files from those changes.
